@@ -4,7 +4,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200" />
     <h1 align="center">Hola! 👋, Soy Emily</h1>
-    <h3 align="center">Soy Data Scientist con mucha pasión por las finanzas y la economía.
+    <h3 align="center">Soy Data Scientist con orientación hacia las finanzas y la economía. Pero mismo tiempo, estoy abierta a la posibilidad de aplicar mis habilidades de ciencia de datos en otros campos y sectores 🤠 
     </h3>
 </div>
 
